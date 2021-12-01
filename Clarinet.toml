@@ -1,7 +1,7 @@
-
 [project]
 name = "counter"
-
-# [contracts.counter]
-# path = "contracts/counter.clar"
-# depends_on = []
+requirements = []
+costs_version = 1
+[contracts.counter]
+path = "contracts/counter.clar"
+depends_on = []
